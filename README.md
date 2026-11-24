@@ -141,9 +141,3 @@ Recovery performance view — Total EMI Collected, Total Recovered Amount, Recov
 2. Open `Cred_nova.pbix` in Power BI Desktop and point the SQL Server connection to your local instance to refresh the data.
 
 ---
-
-## 👤 Author
-
-**Akash Kumar**
-- GitHub: [akash-thakur05](https://github.com/akash-thakur05)
-- LinkedIn: [aakash-thakur05](https://linkedin.com/in/aakash-thakur05)
